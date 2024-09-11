@@ -1,7 +1,11 @@
 # Hugo output
-public/
-resources/
+/public/
+/resources/
 .hugo_build.lock
 
 # Editor
 .vscode/
+.Rproj.user
+
+.DS_Store
+Thumbs.db

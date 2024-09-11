@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: Hex
 toc: false
 ---
 
