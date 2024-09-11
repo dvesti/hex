@@ -55,4 +55,11 @@ params:
     enable: true
     base: "https://github.com/dvesti/hex/edit/main/content"
     
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true      
+    
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]  
+
+  
